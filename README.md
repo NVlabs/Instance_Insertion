@@ -15,7 +15,11 @@ The two modules are jointly trained, where the blue dashed arrows indicate the l
 ## Dataset
 - Download and place [cityscape dataset](https://www.cityscapes-dataset.com/) at "db_root" in the options.py
 
-
+## Dependencies installation
+- Install dependencies using pip.
+```shell
+pip install -r requirements.txt
+```
 
 ## How to run the code
 - Check `options.py` and specify your own path accordingly.
